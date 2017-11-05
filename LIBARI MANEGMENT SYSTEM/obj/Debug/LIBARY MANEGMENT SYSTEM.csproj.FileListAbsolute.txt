@@ -1,0 +1,11 @@
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\bin\Debug\LIBARI MANEGMENT SYSTEM.exe.config
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\bin\Debug\LIBARI MANEGMENT SYSTEM.exe
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\bin\Debug\LIBARI MANEGMENT SYSTEM.pdb
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARY MANEGMENT SYSTEM.csprojResolveAssemblyReference.cache
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI_MANEGMENT_SYSTEM.Add_Members.resources
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI_MANEGMENT_SYSTEM.welcomeForm.resources
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI_MANEGMENT_SYSTEM.Properties.Resources.resources
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARY MANEGMENT SYSTEM.csproj.GenerateResource.Cache
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI MANEGMENT SYSTEM.exe
+c:\users\pritom\documents\visual studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI MANEGMENT SYSTEM.pdb
+C:\Users\PRITOM\Documents\Visual Studio 2015\Projects\LIBARI MANEGMENT SYSTEM\LIBARI MANEGMENT SYSTEM\obj\Debug\LIBARI_MANEGMENT_SYSTEM.MainWindow.resources
